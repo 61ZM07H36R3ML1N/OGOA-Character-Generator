@@ -6,4 +6,11 @@
 "OGOA.AttributeTier": "Tier",
 "OGOA.AttributeEffort": "Effort",
 "OGOA.AttributeXP": "XP",
+"OGOA.AttributeMight": "Might",
+"OGOA.AttributeSpeed": "Speed",
+"OGOA.AttributeIntellect": "Intellect",
+
+"OGOA.AttributeMightAbbr": "Mit",
+"OGOA.AttributeSpeedAbbr": "Spd",
+"OGOA.AttributeIntellectAbbr": "Int"
 }
