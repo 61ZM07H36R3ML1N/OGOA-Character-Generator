@@ -10,7 +10,11 @@
 "OGOA.AttributeSpeed": "Speed",
 "OGOA.AttributeIntellect": "Intellect",
 
-"OGOA.AttributeMightAbbr": "Mit",
+"OGOA.AttributeMightAbbr": "Mgt",
 "OGOA.AttributeSpeedAbbr": "Spd",
-"OGOA.AttributeIntellectAbbr": "Int"
+"OGOA.AttributeIntellectAbbr": "Int",
+
+"OGOA.DamageTrack": "DamageTrack",
+"OGOA.DamageImpaired": "DmgImp",
+"OGOA.DamageDebilitated": "DmgDeb"
 }
