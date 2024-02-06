@@ -1,0 +1,9 @@
+{
+"OGOA.AttributeName": "Name",
+"OGOA.AttributeDescriptor": "Descriptor",
+"OGOA.AttributeType": "Type",
+"OGOA.AttributeFocus": "Focus",
+"OGOA.AttributeTier": "Tier",
+"OGOA.AttributeEffort": "Effort",
+"OGOA.AttributeXP": "XP",
+}
