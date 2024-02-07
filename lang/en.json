@@ -16,5 +16,7 @@
 
 "OGOA.DamageTrack": "DamageTrack",
 "OGOA.DamageImpaired": "DmgImp",
-"OGOA.DamageDebilitated": "DmgDeb"
+"OGOA.DamageDebilitated": "DmgDeb",
+
+"OGOA.Focus": "Foci"
 }
